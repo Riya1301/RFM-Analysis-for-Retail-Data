@@ -38,3 +38,10 @@ What it does
   - Age bracket mix within each segment (counts and % share)
   - Total, average and median spend by age bracket
   - Spending patterns by marital status
+ 
+  - Dataset Details
+  - This Project uses two primary CSV datasets located in repository:
+  - *Customer_Master_Data.csv*
+  - Contains demographic and profile information for each customer.
+  - *Customer_Transactions.csv*
+  - Contains individual purchase history records linked to customer IDs.
